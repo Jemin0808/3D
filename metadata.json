@@ -1,0 +1,6 @@
+{
+  "name": "LDCE 3D Virtual Campus Experience",
+  "description": "Interactive 3D architectural model and virtual campus tour of L.D. College of Engineering (LDCE), Ahmedabad, featuring accurate scale, department blocks, and realistic textures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
